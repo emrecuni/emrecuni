@@ -5,23 +5,21 @@
 
 ---
 
-## 👨‍💻 About Me
+## 💼 Professional Summary
 
-Backend odaklı çalışan bir .NET geliştiricisiyim.  
-ASP.NET Core tabanlı servisler, background job sistemleri ve Linux ortamında production deployment süreçleri üzerinde aktif olarak çalışıyorum.
+Results-driven .NET developer with hands-on experience in:
 
-Kod yazarken önceliklerim:
+✔ Production-grade ASP.NET Core APIs  
+✔ Background job systems with Hangfire  
+✔ Worker Services with time-based scheduling  
+✔ PostgreSQL performance handling  
+✔ Linux deployment & systemd service management  
 
-- Maintainable architecture
-- Predictable system behavior
-- Production stability
-- Clean and testable code structure
-
-Kurumsal ölçekte sürdürülebilir backend sistemleri geliştirme hedefiyle ilerliyorum.
+I focus on writing maintainable, scalable and predictable backend systems.
 
 ---
 
-## Core Competencies
+## 🧠 Core Competencies
 
 - ASP.NET Core Web API & MVC
 - Worker Services & Scheduled Processing
@@ -85,4 +83,4 @@ Kurumsal ölçekte sürdürülebilir backend sistemleri geliştirme hedefiyle il
 
 ## 🎯 Career Objective
 
-Backend architecture, distributed systems and production-grade service design alanlarında derinleşerek kurumsal ölçekte yüksek performanslı sistemler geliştirmek.
+To design high-performance backend systems and evolve toward senior backend/system architecture roles.
